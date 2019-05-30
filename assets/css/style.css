@@ -61,7 +61,7 @@ h2 {
 /* Main Container */
 
 body {
-  background-image: url("background.png");
+  background-image: url("../images/background.png");
 }
 
 .Container {
